@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VetoresPt1", "VetoresPt1\Ve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VetoresPt2", "VetoresPt2\VetoresPt2.csproj", "{8F78A405-86C2-43E5-BDC6-476E9C3F88D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioFixacao", "ExercicioFixacao\ExercicioFixacao.csproj", "{7FE946D0-E7B4-44AF-87E3-08D7DEF5FD6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{8F78A405-86C2-43E5-BDC6-476E9C3F88D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F78A405-86C2-43E5-BDC6-476E9C3F88D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F78A405-86C2-43E5-BDC6-476E9C3F88D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FE946D0-E7B4-44AF-87E3-08D7DEF5FD6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FE946D0-E7B4-44AF-87E3-08D7DEF5FD6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FE946D0-E7B4-44AF-87E3-08D7DEF5FD6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FE946D0-E7B4-44AF-87E3-08D7DEF5FD6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
