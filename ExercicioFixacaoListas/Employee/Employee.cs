@@ -12,10 +12,14 @@ namespace ExercicioFixacaoListas
             Name = name;
             Salary = salary;
         }
+        public void IncreaseSalary(double percentage)
+        {
+            Salary += Salary * percentage / 100;
+        }
 
         public override string ToString()
         {
             return $"{Id}: {Name}, {Salary}";
         }
     }
-}
+} 
