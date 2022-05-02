@@ -1,9 +1,8 @@
-namespace ExercicioFixacao.Vector
+namespace ExercicioFixacao.Vector;
+
+public class Vector
 {
-    public class Vector
-    {
-        public string Name;
-        public string Email;
-        public int Room;
-    }
+    public string Email;
+    public string Name;
+    public int Room;
 }

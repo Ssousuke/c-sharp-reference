@@ -1,18 +1,17 @@
-﻿namespace TipoReferenciaTipoValor
+﻿namespace TipoReferenciaTipoValor;
+
+internal class Program
 {
-    class Program
+    public static void Main(string[] args)
     {
-        public static void Main(string[] args)
-        {
-            Point p;
+        Point p;
 
-            p.X = 20;
-            p.Y = 10;
+        p.X = 20;
+        p.Y = 10;
 
-            Console.WriteLine(p);
+        Console.WriteLine(p);
 
-            p = new Point();
-            Console.WriteLine(p);
-        }
+        p = new Point();
+        Console.WriteLine(p);
     }
 }
