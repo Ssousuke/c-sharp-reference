@@ -1,5 +1,5 @@
 # Aprendendo C# e .NET 6
-C# é uma linguagem multiparadigma de tipagem forte, que tem como framework o .NET, atualmente na versão 6 LTS. O C# tem uma sintaxe muito semelhante a Java, mas aparemtente um pouco mais simples e com mais flexibilidades.
+No geral, C# é uma linguagem poderosa e amplamente utilizada no desenvolvimento de uma variedade de aplicativos e sistemas, oferecendo aos desenvolvedores um conjunto robusto de ferramentas e recursos para criar software de alta qualidade.
 
 ### Conteúdo
     - Orientação a objetos
