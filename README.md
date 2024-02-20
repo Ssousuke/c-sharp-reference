@@ -6,14 +6,11 @@ C# é uma linguagem multiparadigma de tipagem forte, que tem como framework o .N
     - Vetores
     - Matrizes
     - Tipos
-    - Lações de repetições
+    - Laços de repetições
     - Operadores ternários
 
 ### Obvervações
     - Esse repositório contém os estudos iniciais que tive durante meu aprendizado de C# .NET
     
 ### Referência
-Curso:
-Livro:
-Documentação:
-Vídeos:
+Documentação : [Documentação C# MS]([https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website](https://learn.microsoft.com/pt-br/dotnet/csharp/)https://learn.microsoft.com/pt-br/dotnet/csharp/)
